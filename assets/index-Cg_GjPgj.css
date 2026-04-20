@@ -1,1 +1,0 @@
-:root{--text:#6b6375;--bg:#fff;--border:#e5e4e7;color:var(--text);background:var(--bg);font-family:system-ui,sans-serif}html,body{height:100%;margin:0}body{justify-content:center;align-items:center;display:flex}#app{text-align:center;border:1px solid var(--border);width:100%;max-width:600px;padding:20px}
