@@ -1,4 +1,5 @@
 import { salaryAfterTax } from './salary.js'
+import './style.css'
 
 document.querySelector('#app').innerHTML = `
   <h1>Lön efter skatt 💰</h1>
